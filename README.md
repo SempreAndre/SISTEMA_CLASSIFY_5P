@@ -36,7 +36,7 @@ Acesse no navegador: **http://localhost:3001**
 | Usuário | `admin`            |
 | Senha   | `TrustDoc@2026`    |
 
-> ⚠️ A senha deve ser digitada exclusivamente pelo **teclado virtual** na tela.
+>A senha deve ser digitada exclusivamente pelo **teclado virtual** na tela.
 
 ---
 
