@@ -121,7 +121,7 @@ npm run cypress:run
 
 ---
 
-## 🔌 APIs do Backend
+## APIs do Backend
 
 | Método | Rota                 | Descrição                              |
 |--------|----------------------|----------------------------------------|
