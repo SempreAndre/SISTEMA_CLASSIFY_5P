@@ -4,14 +4,14 @@ Sistema de autenticação seguro com teclado virtual, CAPTCHA matemático e dash
 
 ---
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 - [Node.js](https://nodejs.org/) (v16 ou superior)
 - npm (incluído com o Node.js)
 
 ---
 
-## 🚀 Instalação
+## Instalação
 
 ```bash
 git clone <url-do-repositorio>
@@ -21,7 +21,7 @@ npm install
 
 ---
 
-## ▶️ Executar o Sistema
+## Executar o Sistema
 
 ```bash
 npm start
@@ -40,7 +40,7 @@ Acesse no navegador: **http://localhost:3001**
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 Classify/
@@ -67,7 +67,7 @@ Classify/
 
 ---
 
-## 🧪 Testes
+## Testes
 
 ### Testes Unitários (Jest)
 
@@ -94,7 +94,7 @@ npm test
 
 Roda 26 testes no navegador — você assiste cada passo acontecendo em tempo real.
 
-> ⚠️ O servidor precisa estar rodando em outro terminal (`npm start`) antes de executar o Cypress.
+> O servidor precisa estar rodando em outro terminal (`npm start`) antes de executar o Cypress.
 
 **Com interface visual (recomendado):**
 ```bash
@@ -143,7 +143,7 @@ curl -X POST http://localhost:3001/api/login \
 
 ---
 
-## 🔒 Recursos de Segurança
+## Recursos de Segurança
 
 - **Teclado virtual** — previne keyloggers
 - **CAPTCHA matemático** — proteção anti-robô
@@ -155,7 +155,7 @@ curl -X POST http://localhost:3001/api/login \
 
 ---
 
-## 📜 Scripts Disponíveis
+## Scripts Disponíveis
 
 | Comando                | Descrição                                |
 |------------------------|------------------------------------------|
